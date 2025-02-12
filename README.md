@@ -2,10 +2,12 @@
 <h1 align="center"><b>Hi , I'm Mayory Astacio 😊</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/MAR🐚(MAYORY)/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+%F0%9F%91%8B;+I'm+YourName;+A+Self-taught+Developer;+Tech+Enthusiast;+Aspiring+Entrepreneur;+Lover+of+Learning">
+  <a href="https://github.com/YORY31/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=800080&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+MAR🐚;Self-taught+Developer;Passionate+about+Technology;Entrepreneur+in+Progress;Always+Learning+Something+New!">
   </a>
 </p>
+
+
 
 
 
@@ -16,7 +18,7 @@
 	
  **👩🏾‍💻About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://i.pinimg.com/736x/f9/f3/c6/f9f3c623eb6dc5c84f67080b7eedc7f5.jpg" width = 250px></picture>
 
 <br>
 
