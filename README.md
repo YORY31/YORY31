@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Mayory Astacio 😊</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/YourGitHubUsername/readme-typing-svg">
+  <a href="https://github.com/MAR🐚(MAYORY)/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+%F0%9F%91%8B;+I'm+YourName;+A+Self-taught+Developer;+Tech+Enthusiast;+Aspiring+Entrepreneur;+Lover+of+Learning">
   </a>
 </p>
