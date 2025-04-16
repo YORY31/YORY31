@@ -37,7 +37,40 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
+## Proyectos Destacados
+
+Aquí algunos de los proyectos que muestran mis habilidades en desarrollo web, backend, bases de datos y visualización de datos:
+
+### MONETIX_DB – Sistema de Gestión de Finanzas Personales
+Sistema backend desarrollado con SQL Server. Incluye procedimientos almacenados, vistas, triggers y CTEs para registrar y controlar gastos de forma segura. También cuenta con funcionalidades de usuarios, presupuestos y metas.
+
+🔗 [Ver repositorio](https://github.com/YORY31/MONETIX_DB)
+
+---
+
+### Registro de Visitas ITLA – C# en Arquitectura en Capas
+Sistema de control de visitas con C# y arquitectura en capas (presentación, lógica de negocio y acceso a datos). Desarrollado para entornos educativos, con registro de entradas y salidas.
+
+🔗 [Ver repositorio](https://github.com/YORY31/registro-visitas-itla)
+
+---
+
+### Visualización de Datos Personales – Python
+Dashboard desarrollado con Python, Pandas, Matplotlib y Seaborn. Incluye análisis visual de ingresos vs gastos, por categoría y por mes, utilizando datos simulados.
+
+🔗 [Ver repositorio](https://github.com/YORY31/visualizacion-gastos)
+
+---
+
+### Librería Web – HTML, CSS, JS y PHP + MySQL
+Proyecto completo de programación web con Bootstrap, PHP y base de datos MySQL. Permite visualizar libros, autores y guardar información desde un formulario de contacto usando PDO.
+
+🔗 [Ver repositorio](https://github.com/YORY31/libreria-web)
+🔗 [Ver en línea](https://tusitio.infinityfreeapp.com)
+
+
 <p align="center">
+
 
 - **Languages**:
     
