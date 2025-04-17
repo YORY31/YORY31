@@ -22,7 +22,7 @@
 
 <br>
 
-- 💻 I'm specializing in Frontend Development with a strong interest in the world of data.
+- 💻I specialize in Frontend Development, with a strong interest in data-driven solutions and delivering high-quality work.
 
 -🔍 I'm very curious and always eager to learn new things.
 
@@ -47,6 +47,15 @@ Sistema backend desarrollado con SQL Server. Incluye procedimientos almacenados,
 🔗 [Ver repositorio](https://github.com/YORY31/Monetix_BD)
 
 ---
+### Pruebas Automaticas
+Proyecto personal de automatización de pruebas funcionales (UI y flujo de usuario) con Python + Selenium. Incluye validación de formularios, login, registro y reportes de ejecución con evidencia visual y HTML. Aplicación probada: Web app de Control de Gastos desarrollada por mí. También se aplicaron pruebas a una página externa (W3Schools).
+🔗 [Ver repositorio](https://github.com/YORY31/Prueba_Automatizacion_w3shool)
+🔗 [Ver repositorio](https://github.com/YORY31/PRUEBAS_AUTOMATIZACION_FINAL_P3)
+
+
+
+---
+
 
 ### Registro de Visitas ITLA – C# en Arquitectura en Capas
 Sistema de control de visitas con C# y arquitectura en capas (presentación, lógica de negocio y acceso a datos). Desarrollado para entornos educativos, con registro de entradas y salidas.
@@ -67,6 +76,7 @@ Proyecto completo de programación web con Bootstrap, PHP y base de datos MySQL.
 
 🔗 [Ver repositorio](https://github.com/YORY31/Library_dream_of_sea)
 🔗 [Ver en línea](librriaProyectoWEB.wuaze.com)
+
 
 
 <p align="center">
