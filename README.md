@@ -75,7 +75,7 @@ Dashboard desarrollado con Python, Pandas, Matplotlib y Seaborn. Incluye anális
 Proyecto completo de programación web con Bootstrap, PHP y base de datos MySQL. Permite visualizar libros, autores y guardar información desde un formulario de contacto usando PDO.
 
 🔗 [Ver repositorio](https://github.com/YORY31/Library_dream_of_sea)
-🔗 [Ver en línea](librriaProyectoWEB.wuaze.com)
+🔗 [Ver en línea](librriaproyectoweb.wuaze.com)
 
 
 
