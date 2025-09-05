@@ -13,126 +13,131 @@
 
 <br>
 
+**👩🏾‍💻 About Me**
 
-
-	
- **👩🏾‍💻About me**
-
-<picture> <img align="right" src="https://i.pinimg.com/736x/f9/f3/c6/f9f3c623eb6dc5c84f67080b7eedc7f5.jpg" width = 250px></picture>
+<picture> 
+  <img align="right" src="https://i.pinimg.com/736x/f9/f3/c6/f9f3c623eb6dc5c84f67080b7eedc7f5.jpg" width = 250px>
+</picture>
 
 <br>
 
-- 💻I specialize in Frontend Development, with a strong interest in data-driven solutions and delivering high-quality work.
+- 💻 I’m a **QA Analyst & Software Developer in progress**, passionate about software quality and the impact of technology on people’s lives.  
 
--🔍 I'm very curious and always eager to learn new things.
+- 🔍 I enjoy **detecting errors, validating requirements, and ensuring that applications truly meet user needs**.  
 
-- 🎓 Currently studying Software Development at ITLA.
+- 🎓 Currently studying **Software Development at ITLA**.  
 
-- 🚀 I'm open to internship opportunities that help me grow as a developer.
+- 🧪 Hands-on experience with **functional testing, regression testing, BDD, API validation with Postman, and test automation with Selenium + Pytest**.  
+
+- 📊 Skilled in **SQL validation and data integrity testing**, ensuring accuracy in critical workflows.  
+
+- 🚀 Open to internship and junior opportunities where I can **grow in QA**, contribute with **attention to detail, adaptability, and a strong commitment to quality**.  
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+	
+## 🌟 Featured Projects
+
+Here are some projects that showcase my skills in **QA testing, web development, databases, and automation**:
+
+---
+
+### MONETIX_DB – Personal Finance Management System  
+Backend system built with **SQL Server**. Includes stored procedures, views, triggers, and CTEs to securely record and monitor expenses.  
+Also features modules for users, budgets, and goals, ensuring data integrity and reliable reporting.  
+
+🔗 [Repository](https://github.com/YORY31/Monetix_BD)
+
+---
+
+### Automated Testing Projects – Selenium + Python  
+Personal QA project focused on **functional and UI test automation**.  
+Covers validation of login, registration, forms, and CRUD flows with **Selenium + Pytest**, generating HTML test reports with visual evidence.  
+Applications tested: my own Expense Control web app and an external site (W3Schools).  
+
+🔗 [Repository 1](https://github.com/YORY31/Prueba_Automatizacion_w3shool)  
+🔗 [Repository 2](https://github.com/YORY31/PRUEBAS_AUTOMATIZACION_FINAL_P3)
+
+---
+
+### ITLA Visitor Registration – C# Layered Architecture  
+Visitor control system developed in **C# with a 3-layer architecture** (presentation, business logic, data access).  
+Designed for academic environments, allowing the registration of entries and exits with role-based validation.  
+
+🔗 [Repository](https://github.com/YORY31/TRACK-MEET-ITLA/tree/master/TRACKMEET_ITLA)
+
+---
+
+### Personal Data Visualization – Python  
+Interactive dashboard built with **Python, Pandas, Matplotlib, and Seaborn**.  
+Provides insights into income vs. expenses by category and month, using simulated datasets.  
+
+🔗 [Repository](https://github.com/YORY31/visualizacion-gastos)
+
+---
+
+### Dream of Sea Library – Web App (HTML, CSS, JS, PHP + MySQL)  
+Complete web system built with **Bootstrap, PHP, and MySQL**.  
+Features book and author browsing, plus a contact form with PDO for secure data handling.  
+
+🔗 [Repository](https://github.com/YORY31/Library_dream_of_sea)  
+🔗 [Live Demo](http://librriaproyectoweb.wuaze.com)
+
 <br>
-
-## Proyectos Destacados
-
-Aquí algunos de los proyectos que muestran mis habilidades en desarrollo web, backend, bases de datos y visualización de datos:
-
-### MONETIX_DB – Sistema de Gestión de Finanzas Personales
-Sistema backend desarrollado con SQL Server. Incluye procedimientos almacenados, vistas, triggers y CTEs para registrar y controlar gastos de forma segura. También cuenta con funcionalidades de usuarios, presupuestos y metas.
-
-🔗 [Ver repositorio](https://github.com/YORY31/Monetix_BD)
-
----
-### Pruebas Automaticas
-Proyecto personal de automatización de pruebas funcionales (UI y flujo de usuario) con Python + Selenium. Incluye validación de formularios, login, registro y reportes de ejecución con evidencia visual y HTML. Aplicación probada: Web app de Control de Gastos desarrollada por mí. También se aplicaron pruebas a una página externa (W3Schools).
-🔗 [Ver repositorio](https://github.com/YORY31/Prueba_Automatizacion_w3shool)
-🔗 [Ver repositorio](https://github.com/YORY31/PRUEBAS_AUTOMATIZACION_FINAL_P3)
-
-
-
----
-
-
-### Registro de Visitas ITLA – C# en Arquitectura en Capas
-Sistema de control de visitas con C# y arquitectura en capas (presentación, lógica de negocio y acceso a datos). Desarrollado para entornos educativos, con registro de entradas y salidas.
-
-🔗 [Ver repositorio](https://github.com/YORY31/TRACK-MEET-ITLA/tree/master/TRACKMEET_ITLA)
-
----
-
-### Visualización de Datos Personales – Python
-Dashboard desarrollado con Python, Pandas, Matplotlib y Seaborn. Incluye análisis visual de ingresos vs gastos, por categoría y por mes, utilizando datos simulados.
-
-🔗 [Ver repositorio](https://github.com/YORY31/visualizacion-gastos)
-
----
-
-### Librería Web – HTML, CSS, JS y PHP + MySQL
-Proyecto completo de programación web con Bootstrap, PHP y base de datos MySQL. Permite visualizar libros, autores y guardar información desde un formulario de contacto usando PDO.
-
-🔗 [Ver repositorio](https://github.com/YORY31/Library_dream_of_sea)
-🔗 [Ver en línea](librriaproyectoweb.wuaze.com)
-
-
+<br>
+	## 🌟 Tech Tools
 
 <p align="center">
 
-
-- **Languages**:
-    
-    ![C#](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- **Languages**:  
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 
 <br>   
     
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+- **Front-End Development**:  
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 <br>
 
-- **Database**:
-
-  
-  ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- **QA & Testing Tools**:  
+  ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)  
+  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
+  ![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)  
+  ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)  
 
 <br>
-- **Extras**:
 
-![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-   
+- **Version Control & Collaboration**:  
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)  
 
+<br>
+
+- **Database**:  
+  ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+
+<br>
+
+- **Softwares & Tools**:  
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
+  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
 </p>
 
-<br>
-<br>
+
 
 -----
 
